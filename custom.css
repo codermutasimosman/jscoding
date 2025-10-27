@@ -1,0 +1,6 @@
+.mzr-nav-avatar .mzr-nav-item+.mzr-nav-item {
+    display: none !important;
+}
+.setting_dropdown_container {
+    display: none;
+}

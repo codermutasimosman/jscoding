@@ -1,0 +1,1 @@
+$(".account-dropdown-button").css("display", "none");
